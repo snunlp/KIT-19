@@ -80,7 +80,7 @@ _The KIT-19 dataset and the fine-tuned models are publicly available for researc
 
 ---
 
-For more information, access to the datasets, and models, please visit our [GitHub repository](https://github.com/qwer4107/kit-19).
+For more information, access to the datasets, and models, please visit our [GitHub repository](https://github.com/snunlp/kit-19).
 
 **Contributors:** Dongjun Jang, Sungjoo Byun, Hyemi Jo, Hyopil Shin from the Department of Linguistics, Seoul National University
 
