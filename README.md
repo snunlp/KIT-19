@@ -5,11 +5,11 @@
 For ease of access and to facilitate research and development, the KIT-19 dataset and the fine-tuned models are also hosted on Huggingface. Please use the following links to explore and utilize these resources:
 
 ### KIT-19 Dataset 🤗
-- [KIT-19 Instruction Dataset](https://huggingface.co/datasets/Junmai/kit-19-instruction-100000)
+- [KIT-19 Instruction Dataset](https://huggingface.co/datasets/snunlp/KIT-19-ToolKit-100000)
 
 ### Fine-tuned Models 🤗
-- [KIT-1.3b Model](https://huggingface.co/Junmai/KIT-1.3b)
-- [KIT-5.8b Model](https://huggingface.co/Junmai/KIT-5.8b)
+- [KIT-1.3b Model](https://huggingface.co/snunlp/KIT-1.3b)
+- [KIT-5.8b Model](https://huggingface.co/snunlp/KIT-5.8b)
 
 These resources are available for the community to further Korean NLP research and applications. We encourage their use in your projects and research endeavors.
 
